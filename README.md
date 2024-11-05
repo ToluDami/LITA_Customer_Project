@@ -27,6 +27,10 @@ The dataset includes the following fields:
 The data had to be cleaned to remove duplicates and blank cells.
 
 ## Tools Used
+- Microsoft Excel
+- Microsoft SQL
+- Microsoft Power BI
+  
 ### Microsoft Excel for Data Analysis and Visualisation
 
 ![image](https://github.com/user-attachments/assets/4b1e412b-65c1-4cb7-a431-b9c6b1852ed1)
@@ -103,6 +107,11 @@ FROM [dbo].[LITA Capstone Customer_Dataset]
 
 ![image](https://github.com/user-attachments/assets/72afbc1b-f01f-4dfa-a6c7-360babf12abc)
 
+### Microsoft Power BI
+This was used for data cleaning as well as visualisations
+![image](https://github.com/user-attachments/assets/893c8d89-a63b-4a18-849d-39190d46e8d9)
+
+![image](https://github.com/user-attachments/assets/54806b10-d02d-4fa1-8b2b-c508120a157d)
 
 
 
