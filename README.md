@@ -20,3 +20,15 @@ The dataset includes the following fields:
 - 4 Regions
 - Average subscription Duration of 365days
 - Total Revenue - 67,540,175
+
+## Data Manipulation
+
+### Data Cleaning
+The data had to be cleaned to remove duplicates and blank cells.
+
+## Tools Used
+### Microsoft Excel for Data Analysis and Visualisation
+
+![image](https://github.com/user-attachments/assets/4b1e412b-65c1-4cb7-a431-b9c6b1852ed1)
+
+
